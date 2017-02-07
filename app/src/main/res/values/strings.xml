@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gallery刷新加载</string>
+    <string name="refresh">滑动刷新</string>
+    <string name="loadMore">加载更多</string>
+</resources>
